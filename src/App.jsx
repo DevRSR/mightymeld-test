@@ -1,14 +1,7 @@
-import { useState } from 'react'
+import { useState } from "react";
 
 function App() {
- 
-
-  return (
-      <div className=' w-24 h-24 bg-yellow-500'>
-        
-      </div>
-      
-  )
+  return <div className={" w-full h-screen"}></div>;
 }
 
-export default App
+export default App;

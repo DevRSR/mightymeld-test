@@ -6,6 +6,10 @@ export function fragment$fragment() {
     return <div />
   }
   
+  export function form$html() {
+    return <form />
+  }
+  
   export function text$text() {
     return <div>Sample text</div>
   }
