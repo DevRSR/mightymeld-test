@@ -11,7 +11,7 @@ export function form$html() {
 }
 
 export function label$html() {
-  return <label></label>;
+  return <label>sample text</label>;
 }
 
 export function text$text() {

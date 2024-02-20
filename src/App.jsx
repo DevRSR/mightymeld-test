@@ -10,7 +10,9 @@ function App() {
           <div className="text-center text-xl font-semibold p-2">
             Login Page
           </div>
-          <div />
+          <div>
+            <label></label>
+          </div>
         </form>
       </div>
     </>
