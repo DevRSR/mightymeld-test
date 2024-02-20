@@ -10,6 +10,10 @@ export function form$html() {
   return <form></form>;
 }
 
+export function label$html() {
+  return <label></label>;
+}
+
 export function text$text() {
   return <div>Sample text</div>;
 }
